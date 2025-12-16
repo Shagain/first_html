@@ -56,3 +56,8 @@ footer{
   text-align: center;
   background-color: #ddd;
 }
+
+img{
+  width: 150px;
+  height: 150px;
+}
